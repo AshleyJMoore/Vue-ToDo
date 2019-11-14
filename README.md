@@ -1,4 +1,4 @@
-#Simple Vue JS 'ToDo' app.
+# Simple Vue JS 'ToDo' app.
 
 - Add a new item to the list with priority
 - Remove an item from the list
